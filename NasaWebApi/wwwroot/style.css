@@ -1,0 +1,23 @@
+﻿body {
+    align-items:center;
+    justify-content: space-between;
+    
+}
+header {
+    background: rgb(255, 255, 255, 0.56);
+    margin-top: 50px;
+    width: 80%;
+}
+main{
+    margin-top: 100px;
+    width: 80%;
+}
+.centered {
+    position: absolute;
+    top:56px;
+    left:50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    background-color: rgb(82, 160, 243, 0.37);
+    padding: 5px;
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c7320dd-17b4-4928-bb73-6beab5f4ee9f": {
+      "ProjectGuid": "8c7320dd-17b4-4928-bb73-6beab5f4ee9f",
+      "DisplayName": "NasaWebApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
